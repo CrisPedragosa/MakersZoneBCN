@@ -881,14 +881,14 @@ footer {
         background-image: none;
     }
     .hexagon{
-        max-width: 200px;
-        max-height: 200px;
+        max-width: 300px;
+        max-height: 300px;
         margin: auto;
     }
 
     .projecthexagon{
-        max-width: 200px;
-        max-height: 200px;
+        max-width: 300px;
+        max-height: 300px;
         margin: auto;
     }
     
@@ -905,10 +905,10 @@ footer {
     }
 
     .logo-icon {
-        max-width: 30px;
+        max-width: 100px;
     }
 
     .logo {
-        max-width: 100px;
+        max-width: 300px;
     }
 }
