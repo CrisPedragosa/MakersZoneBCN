@@ -896,11 +896,19 @@ footer {
         max-width: 400px;
     }
     .cerrar{
-        font-size: 10px;
+        font-size: 30px;
     }
     
     .adelante, .atras{
-        font-size: 10px;
+        font-size: 30px;
         padding: 5px;
+    }
+
+    .logo-icon {
+        max-width: 50px;
+    }
+
+    .logo {
+        width: 200px;
     }
 }
