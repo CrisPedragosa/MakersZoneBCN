@@ -880,4 +880,8 @@ footer {
     .historia{
         background-image: none;
     }
+    .hexagon{
+        width: 50vh;
+        height: 50vh;
+    }
 }
