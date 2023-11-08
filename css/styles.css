@@ -881,7 +881,7 @@ footer {
         background-image: none;
     }
     .hexagon{
-        width: 40vh;
-        height: 40vh;
+        max-width: 80%;
+        max-height: 80%;
     }
 }
