@@ -883,5 +883,24 @@ footer {
     .hexagon{
         max-width: 200px;
         max-height: 200px;
+        margin: auto;
+    }
+
+    .projecthexagon{
+        max-width: 200px;
+        max-height: 200px;
+        margin: auto;
+    }
+    
+    .ventanaemergente img{
+        max-width: 400px;
+    }
+    .cerrar{
+        font-size: 10px;
+    }
+    
+    .adelante, .atras{
+        font-size: 10px;
+        padding: 5px;
     }
 }
